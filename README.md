@@ -2,6 +2,18 @@
 
 A cross-platform Flutter app for learning with Trivia Flashcards. The app fetches the live question for Open Trivia Database.
 
+This simple Trivia App was built to learn Flutter:
+- Widget composition
+- Async API calls
+- Basic state management
+- Navigation and screen handling
+
+It’s not a production app, it’s my first hands-on with Flutter to understand the framework fundamentals.
+
+Next, I’ll dive deeper into Riverpod, GoRouter, and testing for scalable Flutter apps.
+
+If you’ve explored Flutter coming from a web background, I’d love to hear your experience!
+
 ## Features
 - Modern UI
 - Cross-platform(Android, iOS, Web, Desktop)
