@@ -27,3 +27,34 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+# IDE and editor folders
+.idea/
+.vscode/
+*.iml
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Flutter and platform build outputs
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Pods/
+macos/Pods/
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# Gradle
+.gradle/
+android/.gradle/
+android/local.properties
+
+# Misc
+.metadata
+*.log
