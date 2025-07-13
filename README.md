@@ -29,26 +29,18 @@ A cross-platform Flutter app for learning with Trivia Flashcards. The app fetche
 
 **1. Clone the repo** :
 
-git clone https://github.com/Rinu-Zachariah/trivia-flutter.git
-cd trivia-flutter
+>> git clone https://github.com/Rinu-Zachariah/trivia-flutter.git
+>> cd trivia-flutter
 
-flutter pub get
-flutter run -d chrome  
+>> flutter pub get
+>> flutter run -d chrome  
 
-**Basic Folder Structure** :
 
-lib/
-  models/
-  services/
-  widgets/
-  screens/
-  main.dart
-
-**Deployed Version**:
+## Deployed Version:
 
 Netlify : https://trivia-flutter.netlify.app/
 
-**Features to add** :
+## Features to add
 
 1. Category Selection for trivia
 2. Progress Bar for user to see how far the user is in the quiz
